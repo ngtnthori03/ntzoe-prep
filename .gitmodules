@@ -1,3 +1,6 @@
-[submodule "aux/.emacs.d"]
-	path = aux/.emacs.d
-	url = https://github.com/th1nhori9ami/.emacs.d
+[submodule "record/.emacs.d"]
+	path = record/.emacs.d
+	url = git@github.com:th1nhori9ami/.emacs.d.git
+[submodule "auxiliary/box-compose/mssql"]
+	path = auxiliary/box-compose/mssql
+	url = git@github.com:th1nhori9ami/mssql-box-compose.git
