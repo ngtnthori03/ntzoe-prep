@@ -4,3 +4,9 @@
 [submodule "auxiliary/box-compose/mssql"]
 	path = auxiliary/box-compose/mssql
 	url = git@github.com:th1nhori9ami/mssql-box-compose.git
+[submodule "rec/emacs"]
+	path = rec/emacs
+	url = https://github.com/th1nhori9ami/emacs
+[submodule "aux/box-compose/mssql"]
+	path = aux/box-compose/mssql
+	url = https://github.com/th1nhori9ami/mssql-box-compose
