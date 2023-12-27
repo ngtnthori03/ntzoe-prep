@@ -1,0 +1,19 @@
+Host ngthori-gl
+    User git
+    HostName gitlab.com
+    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentitiesOnly yes
+
+# github
+
+Host ngthori-gh
+    User git
+    HostName github.com
+    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentitiesOnly yes
+
+Host github.com
+    User git
+    HostName github.com
+    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentitiesOnly yes 
