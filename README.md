@@ -5,6 +5,6 @@
 ```
 
 ## structure
-- rec/* -- configurations files
+- rec/* -- configuration files
 - draft/* -- store files ( ssh-key, tmp files, ect )
 - ez/* -- script filee ( ez for easy )
