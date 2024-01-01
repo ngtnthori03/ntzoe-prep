@@ -1,19 +1,19 @@
-Host ngthori-gl
+Host th0ri-gl
     User git
     HostName gitlab.com
-    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentityFile ~/.th0ri-prep/draft/ssh/th0ri
     IdentitiesOnly yes
 
 # github
 
-Host ngthori-gh
+Host th0ri-gh
     User git
     HostName github.com
-    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentityFile ~/.th0ri-prep//draft/ssh/th0ri
     IdentitiesOnly yes
 
 Host github.com
     User git
     HostName github.com
-    IdentityFile ~/.ngthori/.ngthori/draft/ssh/ngthori
+    IdentityFile ~/.th0ri-prep/draft/ssh/th0ri
     IdentitiesOnly yes 
