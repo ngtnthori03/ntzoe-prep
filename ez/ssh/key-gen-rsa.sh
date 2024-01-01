@@ -1,7 +1,7 @@
 
 
-mkdir -p $ngthori_/draft/ssh
+mkdir $th0ri__prep/draft/ssh
 
 ssh-keygen -t rsa \
--C "thinhorigami.zz@gmail.com" \
--f $ngthori_/draft/ssh/ngthori;
+-C "thinh0rigarni" \
+-f $th0ri__prep/draft/ssh/ngthori;
