@@ -1,4 +1,4 @@
-# prep-th0ri -- bootstraping my workspace
+# prep-th0ri -- prepare my workspace
 
 ''' shell
     git clone https://github.com/thinh0rigami/prep-th0ri.git ~/.prep-th0ri
