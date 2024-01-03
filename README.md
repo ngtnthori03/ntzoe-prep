@@ -1,7 +1,7 @@
-# prep-th0ri -- prepare my workspace
+# thxori-prep -- prepare my workspace
 
 ``` shell
-    git clone https://github.com/thinh0rigami/prehttps://github.com/thinh0rigami/th0ri-prep.git ~/.th0ri-prep
+    git clone https://github.com/thinhxorigami/thxori-prep.git ~/.th0ri-prep
 ```
 
 ## structure
