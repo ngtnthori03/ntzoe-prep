@@ -6,5 +6,5 @@
 
 ## structure
 - rec/* -- configuration files
-- draft/* -- draft project
-- ez/* -- script filee ( ez for easy )
+- draft/* -- draft projects
+- ez/* -- script files ( ez for easy )
