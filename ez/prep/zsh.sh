@@ -1,7 +1,5 @@
-source $th0ri__prep/rec/sh/th0ri-prep.sh
+source $thxori_prep_dir/rec/sh/th0ri-prep.sh
 
-ln -fs $th0ri__prep/rec/sh/th0ri-prep.sh $HOME/.th0ri-prep.sh
+ln -fs $thxori_prep_dir/rec/sh/th0ri-prep.sh $HOME/.thxori-prep.sh
 
-source $HOME/.th0ri-prep.sh
-
-echo "source $HOME/.th0ri-prep.sh" >> $HOME/.zshrc
+echo "source $HOME/.thxori-prep.sh" >> $HOME/.zshrc
