@@ -1,7 +1,7 @@
 
-
-mkdir $th0ri__prep/draft/ssh
+# require
+echo "dir -- ssh stored file: $thxori_HOME_DIR/store/ssh/"
 
 ssh-keygen -t rsa \
--C "thinh0rigarni" \
--f $th0ri__prep/draft/ssh/th0ri;
+-C "$USER" \
+-f $thxori_HOME_DIR/store/ssh/$USER;
