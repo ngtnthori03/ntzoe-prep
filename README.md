@@ -1,4 +1,4 @@
-# thxori-prep -- prepare my workspace
+# thxori-prep -- prepare my workspace ( weekly update )
 
 ``` shell
     git clone https://github.com/thinhxorigami/thxori-prep ~/.thxori-prep
