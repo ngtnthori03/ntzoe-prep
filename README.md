@@ -2,7 +2,7 @@
 # ( weekly update )
 
 ``` shell
-    git clone https://github.com/thinhxorigami/thxori-prep ~/.thxori-prep
+    git clone https://github.com/thinhxorigami/nto-prep ~/.thxori-prep
 ```
 
 ## structure
