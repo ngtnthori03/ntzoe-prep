@@ -2,7 +2,7 @@
 # ( weekly update )
 
 ``` shell
-    git clone https://github.com/ngtnthori/ntzoe-prep ~/.ntzoe-prep
+    git clone https://github.com/ngtnthori03/ntzoe-prep ~/.ntzoe-prep
 ```
 
 ## structure
