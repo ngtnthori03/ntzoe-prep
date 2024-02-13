@@ -1,4 +1,4 @@
-# thxori-prep -- prepare my workspace
+# ntzoe-prep -- prepare my workspace
 # ( weekly update )
 
 ``` shell
