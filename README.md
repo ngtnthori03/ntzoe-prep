@@ -1,4 +1,4 @@
-# ntzoe-prep -- prepare my workspace
+# ntzoe-prep -- prepare somethings
 # ( weekly update )
 
 ``` shell
